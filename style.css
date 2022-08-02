@@ -8,5 +8,16 @@
     justify-content: center;
     font-weight: bold;
     color: #cccccc;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.image-preview__image {
+    display: none;
+    width: 100%;
+}
+
+h1 {
+    color: cadetblue;
+    font-family: 'Courier New', Courier, monospace;
 }
 
